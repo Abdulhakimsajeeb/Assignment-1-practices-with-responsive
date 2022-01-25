@@ -1,0 +1,37 @@
+
+/*--------------------------- nabar -----------------------------*/
+#influencer{
+    font-size: 1.5em;
+    font-weight: 500;
+}
+#links{
+    font-weight: 600;
+}
+/* ------------------------------first part------------------------------  */
+.hakim{
+    display: flex;
+}
+.half-width{
+    width: 60%;
+}
+.half-width img{
+    width:60%;
+    margin-left: 30%;
+    
+}
+.h-1{
+    font-size: 3.5em;
+    font-weight: 600;
+}
+p{
+    font-size: 1.1em;
+    color: rgb(78, 77, 76);
+    font-weight: 500;
+}
+#button{
+    background-color: rgb(240, 37, 172);
+    padding: 2%;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+}
